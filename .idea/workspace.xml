@@ -1,99 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="146cd1ef-17ea-436d-b135-6091ae06ea95" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/10excel_column_by_name_all_worksheet.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/11excel_value_meets_condiion_set_of_worksheets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/12excel_introspect_all_workbooks.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/13excel_concat_data_from_multiple_workbook.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/14excel_sum_average_multiple_workbook.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/4excel_value_meets_condition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/5excel_value_in_set.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/6excel_value_matches_pattern.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/7excel_column_by_index.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/8excel_column_by_name.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/9excel_value_meets_condition_all_worksheets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/excel_introspect.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_column_by_index.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_column_by_name.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_column_by_name_all_worksheets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_concat_data_from_multiple_workbook.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_in_set.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_meets_condition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_meets_condition_all_worksheets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_meets_condition_set_of_worksheets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_meets_pattern.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch03/sales_2013.xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/1db_count_rows.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/2db_insert_row.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/3db_update_row.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/4db_mysql_load_from_csv.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/Suppliers.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch04/data_for_updating.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch05/1search_for_items_write_found.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/6.1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/histogram.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/line_plot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/my_ggplot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/pandas_plots.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch06/scatter_plot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch09/9.2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch09/9.3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learn/ch09/people.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python数据分析基础.iml" afterPath="$PROJECT_DIR$/.idea/Python数据分析基础.iml" />
+    <list default="true" id="146cd1ef-17ea-436d-b135-6091ae06ea95" name="Default" comment="learn python data analysis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/foundations-for-analytics-with-python-master/database/Suppliers.db" afterPath="$PROJECT_DIR$/foundations-for-analytics-with-python-master/database/Suppliers.db" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/another.py" afterPath="$PROJECT_DIR$/learn/ch01/another.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/another_file_to_read.txt" afterPath="$PROJECT_DIR$/learn/ch01/another_file_to_read.txt" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/csv_writer.py" afterPath="$PROJECT_DIR$/learn/ch01/csv_writer.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/file_to_read.txt" afterPath="$PROJECT_DIR$/learn/ch01/file_to_read.txt" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/file_to_read1.txt" afterPath="$PROJECT_DIR$/learn/ch01/file_to_read1.txt" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/first_script.py" afterPath="$PROJECT_DIR$/learn/ch01/first_script.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/list.txt" afterPath="$PROJECT_DIR$/learn/ch01/list.txt" />
-      <change beforePath="$PROJECT_DIR$/learn/第一章/writer_in_file.py" afterPath="$PROJECT_DIR$/learn/ch01/writer_in_file.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/1excel_introspect_workbook.py" afterPath="$PROJECT_DIR$/learn/ch03/1excel_introspect_workbook.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/2excel_parsing_and_write.py" afterPath="$PROJECT_DIR$/learn/ch03/2excel_parsing_and_write.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/3excel_parsing_write_keep_date.py" afterPath="$PROJECT_DIR$/learn/ch03/3excel_parsing_write_keep_date.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/output_files/2output.xls" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/output_files/3output.xls" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/pandas_read_and_write_excel.py" afterPath="$PROJECT_DIR$/learn/ch03/pandas_read_and_write_excel.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/pandas_value_meet_condition.py" afterPath="$PROJECT_DIR$/learn/ch03/pandas_value_meet_condition.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/sales_2013.xlsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/sales_2014.xlsx" afterPath="$PROJECT_DIR$/learn/ch03/sales_2014.xlsx" />
-      <change beforePath="$PROJECT_DIR$/learn/第三章/sales_2015.xlsx" afterPath="$PROJECT_DIR$/learn/ch03/sales_2015.xlsx" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/11csv_reader_select_contiguous_row.py" afterPath="$PROJECT_DIR$/learn/ch02/11csv_reader_select_contiguous_row.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/1csv_read_with_simple_parsing_and_write.py" afterPath="$PROJECT_DIR$/learn/ch02/1csv_read_with_simple_parsing_and_write.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/2csv_reader_parsing_and_write.py" afterPath="$PROJECT_DIR$/learn/ch02/2csv_reader_parsing_and_write.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/3csv_reader_value_meets_condition.py" afterPath="$PROJECT_DIR$/learn/ch02/3csv_reader_value_meets_condition.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/4csv_reader_value_in_set.py" afterPath="$PROJECT_DIR$/learn/ch02/4csv_reader_value_in_set.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/5csv_reader_value_matches_pattern.py" afterPath="$PROJECT_DIR$/learn/ch02/5csv_reader_value_matches_pattern.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/6csv_reader_column_by_index.py" afterPath="$PROJECT_DIR$/learn/ch02/6csv_reader_column_by_index.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/7csv_reader_column_by_name.py" afterPath="$PROJECT_DIR$/learn/ch02/7csv_reader_column_by_name.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/9csv_reader_concat_rows_from_multiple_file.py" afterPath="$PROJECT_DIR$/learn/ch02/9csv_reader_concat_rows_from_multiple_file.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/11output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/11output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/3output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/3output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/4output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/4output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/5output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/5output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/6output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/6output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/7output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/7output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/9output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/9output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/csv_output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/csv_output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/output_file.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/output_file.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/pandas.output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/pandas.output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/output_files/pandas_output.csv" afterPath="$PROJECT_DIR$/learn/ch02/output_files/pandas_output.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_column_by_index.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_column_by_index.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_column_by_name.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_column_by_name.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_concact_rows_from_multiple_files.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_concact_rows_from_multiple_files.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_parsing_and_writer.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_parsing_and_writer.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_select_contiguous_rows.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_select_contiguous_rows.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_value_in_set.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_value_in_set.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_value_matches_pattern.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_value_matches_pattern.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/pandas_value_meets_condition.py" afterPath="$PROJECT_DIR$/learn/ch02/pandas_value_meets_condition.py" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/sales_february_2014.csv" afterPath="$PROJECT_DIR$/learn/ch02/sales_february_2014.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/sales_january_2014.csv" afterPath="$PROJECT_DIR$/learn/ch02/sales_january_2014.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/sales_march_2014.csv" afterPath="$PROJECT_DIR$/learn/ch02/sales_march_2014.csv" />
-      <change beforePath="$PROJECT_DIR$/learn/第二章/supplier_data.csv" afterPath="$PROJECT_DIR$/learn/ch02/supplier_data.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -371,7 +280,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -434,17 +343,24 @@
       <option name="presentableId" value="Default" />
       <updated>1517379775422</updated>
     </task>
+    <task id="LOCAL-00001" summary="learn python data analysis">
+      <created>1529318838295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529318838295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26726058" sideWeight="0.5064795" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81911445" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="435" height="902" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26726058" sideWeight="0.49352053" order="7" side_tool="false" content_ui="tabs" />
