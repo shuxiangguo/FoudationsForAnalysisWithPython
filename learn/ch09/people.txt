@@ -1,0 +1,4 @@
+name    age   color   score
+clint   32    green   15.6
+john    30    blue    22.3
+rachel  27  31.4  red
